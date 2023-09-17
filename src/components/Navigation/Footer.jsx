@@ -199,7 +199,7 @@ const FooterUnLogged = ({ navigation, imageDesktop, urlFirst }) => {
           </section>
         </article>
         <article className="flex flex-col text-center pt-8 mt-10 mx-4 border-t border-SoftGray cursor-default xs:flex-row xs:justify-center dark:text-SoftWhite">
-          <span>© 2023 Blocksidian,</span>
+          <span>© 2023 Blocksidian</span>
           <span className="xs:ms-1">Inc. All rights reserved.</span>
         </article>
       </footer>
