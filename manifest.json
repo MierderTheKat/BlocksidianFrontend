@@ -1,19 +1,37 @@
-{
-    "name": "Blocksidian",
-    "short_name": "BS",
-    "icons": [
-        {
-            "src": "./src/assets/icons/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "./src/assets/icons/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#32456a",
-    "background_color": "#32456a",
-    "display": "standalone"
-}
+[
+    {
+        "nomo_manifest_version": "1.0.0",
+        "plugin_id": "app.nomo.demoplugin",
+        "plugin_name": "Demo Plugin",
+        "plugin_version": "1.0.0",
+        "dependencies": [],
+        "permissions": [
+            "nomo.permission.CAMERA",
+            "nomo.permission.SEND_MESSAGE",
+            "nomo.permission.SEND_ASSETS",
+            "nomo.permission.READ_MEDIA",
+            "nomo.permission.DEVICE_FINGERPRINTING",
+            "nomo.permission.SIGN_EVM_TRANSACTION",
+            "nomo.permission.SIGN_EVM_MESSAGE"
+        ]
+    },
+    {
+        "name": "Blocksidian",
+        "short_name": "BS",
+        "icons": [
+            {
+                "src": "./src/assets/icons/android-chrome-192x192.png",
+                "sizes": "192x192",
+                "type": "image/png"
+            },
+            {
+                "src": "./src/assets/icons/android-chrome-512x512.png",
+                "sizes": "512x512",
+                "type": "image/png"
+            }
+        ],
+        "theme_color": "#32456a",
+        "background_color": "#32456a",
+        "display": "standalone"
+    }
+]
