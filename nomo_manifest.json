@@ -1,6 +1,6 @@
 {
     "nomo_manifest_version": "1.0.0",
-    "plugin_id": "app.nomo.blocksidian",
+    "plugin_id": "app.netlify.blocksidian",
     "plugin_name": "Demo Blocksidian",
     "plugin_version": "1.0.0",
     "dependencies": [],
