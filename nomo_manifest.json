@@ -1,0 +1,18 @@
+{
+    "plugins": [
+      {
+        "name": "PluginName",
+        "version": "1.0.0",
+        "author": "AuthorName",
+        "description": "Description of the plugin",
+        "dependencies": {
+          "otherPlugin": "^2.0.0"
+        },
+        "settings": {
+          "option1": "value1",
+          "option2": "value2"
+        }
+      }
+    ]
+  }
+  
