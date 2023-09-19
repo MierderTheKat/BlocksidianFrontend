@@ -1,21 +1,4 @@
-[
-    {
-        "nomo_manifest_version": "1.0.0",
-        "plugin_id": "app.nomo.blocksidian",
-        "plugin_name": "Demo Blocksidian",
-        "plugin_version": "1.0.0",
-        "dependencies": [],
-        "permissions": [
-            "nomo.permission.CAMERA",
-            "nomo.permission.SEND_MESSAGE",
-            "nomo.permission.SEND_ASSETS",
-            "nomo.permission.READ_MEDIA",
-            "nomo.permission.DEVICE_FINGERPRINTING",
-            "nomo.permission.SIGN_EVM_TRANSACTION",
-            "nomo.permission.SIGN_EVM_MESSAGE"
-        ]
-    },
-    {
+{
         "name": "Blocksidian",
         "short_name": "BS",
         "icons": [
@@ -34,4 +17,3 @@
         "background_color": "#32456a",
         "display": "standalone"
     }
-]

@@ -1,18 +1,16 @@
 {
-    "plugins": [
-      {
-        "name": "PluginName",
-        "version": "1.0.0",
-        "author": "AuthorName",
-        "description": "Description of the plugin",
-        "dependencies": {
-          "otherPlugin": "^2.0.0"
-        },
-        "settings": {
-          "option1": "value1",
-          "option2": "value2"
-        }
-      }
+    "nomo_manifest_version": "1.0.0",
+    "plugin_id": "app.nomo.demoplugin",
+    "plugin_name": "Demo Plugin",
+    "plugin_version": "1.0.0",
+    "dependencies": [],
+    "permissions": [
+        "nomo.permission.CAMERA",
+        "nomo.permission.SEND_MESSAGE",
+        "nomo.permission.SEND_ASSETS",
+        "nomo.permission.READ_MEDIA",
+        "nomo.permission.DEVICE_FINGERPRINTING",
+        "nomo.permission.SIGN_EVM_TRANSACTION",
+        "nomo.permission.SIGN_EVM_MESSAGE"
     ]
-  }
-  
+}
