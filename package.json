@@ -13,7 +13,7 @@
     "@successtar/react-reveal": "^1.2.10",
     "firebase": "^10.1.0",
     "framer-motion": "^10.13.0",
-    "harhat": "^1.0.1",
+    "hardhat": "^2.17.3",
     "nomo-plugin-kit": "^0.1.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
