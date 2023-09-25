@@ -178,7 +178,7 @@ export function GlobalContextProvider(props) {
     {
       image: "",
       name: "Julion Alvarez",
-      date: "29/07/2023",
+      date: "29/10/2023",
       hour: "02:00 PM",
       place: "Palenque FENADU",
       placeURL: "https://goo.gl/maps/pncs4PF9Ku6aKGm87",
